@@ -1,0 +1,540 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"endoer_out",
+				"encoder_output"
+			],
+			[
+				"enco",
+				"encoder_inputs"
+			],
+			[
+				"normal",
+				"normal_comments"
+			],
+			[
+				"cread",
+				"created_utc"
+			],
+			[
+				"bot_",
+				"bot_cake_days"
+			],
+			[
+				"pred",
+				"predicted_user"
+			],
+			[
+				"predi",
+				"predicted_user"
+			],
+			[
+				"create",
+				"create_visualization"
+			],
+			[
+				"drpo",
+				"drop_embed"
+			],
+			[
+				"return",
+				"return_sequences"
+			],
+			[
+				"X_posts",
+				"X_posts_sub"
+			],
+			[
+				"Y_C",
+				"Y_comments_smaller"
+			],
+			[
+				"Y_comm",
+				"Y_comments"
+			],
+			[
+				"X_comm",
+				"X_comments_smaller"
+			],
+			[
+				"Y_comme",
+				"Y_comments"
+			],
+			[
+				"X_comme",
+				"X_comments"
+			],
+			[
+				"ccon",
+				"concated_tensor"
+			],
+			[
+				"max_pool",
+				"max_pool_2"
+			],
+			[
+				"classi",
+				"classification_report"
+			],
+			[
+				"X_posts_sub",
+				"X_posts_sub_obj"
+			],
+			[
+				"Y_COMMEN",
+				"Y_comments_sub"
+			],
+			[
+				"X_comments",
+				"X_comments_sub_obj"
+			],
+			[
+				"Y_comments",
+				"Y_comments_user"
+			],
+			[
+				"Se",
+				"Sequential"
+			],
+			[
+				"train",
+				"train_data_matrix"
+			],
+			[
+				"subs",
+				"subs_comment"
+			],
+			[
+				"num_user",
+				"num_user_posts"
+			],
+			[
+				"num_bot",
+				"num_bot_comments"
+			],
+			[
+				"X_",
+				"X_comments"
+			],
+			[
+				"label",
+				"label_object"
+			],
+			[
+				"get",
+				"get_usernames_from_database"
+			],
+			[
+				"num",
+				"num_comments"
+			],
+			[
+				"comm",
+				"comment_counter"
+			],
+			[
+				"current_num",
+				"current_num_train_bot"
+			],
+			[
+				"total_num",
+				"total_num_bot"
+			],
+			[
+				"total",
+				"total_num_users"
+			],
+			[
+				"total_",
+				"total_num_bots"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"response",
+				"response"
+			],
+			[
+				"post",
+				"post_karma"
+			],
+			[
+				"subreddit",
+				"subreddit_id"
+			],
+			[
+				"link",
+				"link_id"
+			],
+			[
+				"K",
+				"K_bytes"
+			],
+			[
+				"C",
+				"C_bytes"
+			],
+			[
+				"hmac",
+				"hmac_sha512"
+			],
+			[
+				"hm",
+				"hmac_sha512"
+			],
+			[
+				"time",
+				"time_step_x"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"comment",
+				"comment_links"
+			],
+			[
+				"corpus",
+				"corpus_tfidf"
+			],
+			[
+				"term",
+				"termfreq"
+			],
+			[
+				"hyp",
+				"hyponym_synsets"
+			],
+			[
+				"rom",
+				"romance_freqdist"
+			],
+			[
+				"get_",
+				"get_playerInfo"
+			],
+			[
+				"league",
+				"leagueMembers"
+			],
+			[
+				"S",
+				"Settings"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"play",
+				"playerIDs"
+			],
+			[
+				"pl",
+				"playerIDs"
+			],
+			[
+				"scor",
+				"scoringPeriodId"
+			],
+			[
+				"sco",
+				"scoringPeriodId"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bpnor/Documents/website/_travel/2018-12-15-cambodia-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-10-26-beijing-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-09-26-vietnam-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-09-22-china-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-01-01-hongkong-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2017-08-21-germany-austria-switzerland-2017.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-09-08-macau-2018.html",
+		"/C/Users/bpnor/Documents/website/_travel/2017-12-28-philippines-2017.html",
+		"/C/Users/bpnor/Documents/website/index.html",
+		"/C/Users/bpnor/Documents/website/programming.html",
+		"/C/Users/bpnor/Documents/website/_programming/2019-03-19-java-understanding-primitive-types-and-wrapper-objects.html",
+		"/C/Users/bpnor/Documents/website/docs/programming/java-understanding-primitive-types-and-wrapper-objects/index.html",
+		"/C/Users/bpnor/Documents/website/docs/programming/index.html",
+		"/C/Users/bpnor/Documents/website/docs/index.html",
+		"/C/Users/bpnor/Documents/website/_projects/2018-05-01-song-sentiment-predictor.html",
+		"/C/Users/bpnor/Documents/website/Gulpfile.js",
+		"/C/Users/bpnor/Documents/website/docs/projects/ecolab-data-importing-tool/index.html",
+		"/C/Users/bpnor/Documents/website/_config.yml",
+		"/C/Users/bpnor/Documents/website/Gemfile.lock",
+		"/C/Users/bpnor/Documents/website/_layouts/project.html",
+		"/C/Users/bpnor/Documents/website/_layouts/post.html",
+		"/C/Users/bpnor/Documents/website/_data/social.yml",
+		"/C/Users/bpnor/Documents/website/_programming/2018-05-01-song-sentiment-predictor.html",
+		"/C/Users/bpnor/Documents/website/.scss-lint.yml",
+		"/C/Users/bpnor/Documents/website/.jekyll-metadata",
+		"/C/Users/bpnor/Documents/website/_data/responsiveMetadata.json",
+		"/C/Users/bpnor/Documents/website/_includes/box.html",
+		"/C/Users/bpnor/Documents/website/projects.html",
+		"/C/Users/bpnor/Documents/website/travel.html",
+		"/C/Users/bpnor/Documents/website/_projects/2019-03-19-java-understanding-primitive-types-and-wrapper-objects.html",
+		"/C/Users/bpnor/Documents/Important Docs/ideas.txt",
+		"/C/Users/bpnor/Documents/website/_programmings/2019-03-19-java-understanding-primitive-types-and-wrapper-objects.html",
+		"/C/Users/bpnor/Documents/website/_writing/how_to_learn_kanji.html",
+		"/C/Users/bpnor/Documents/website/_writing/japanese_convenience_stores.html",
+		"/C/Users/bpnor/Documents/website/_includes/footer.html",
+		"/C/Users/bpnor/Documents/website/_includes/youtube.html",
+		"/C/Users/bpnor/Documents/website/_includes/collection.html",
+		"/C/Users/bpnor/Documents/website/_includes/more.html",
+		"/C/Users/bpnor/Documents/website/_layouts/default.html",
+		"/C/Users/bpnor/Documents/website/_layouts/trip.html",
+		"/C/Users/bpnor/Documents/website/_layouts/base.html",
+		"/C/Users/bpnor/Documents/website/README.md",
+		"/C/Users/bpnor/Documents/website/_projects/2018-08-17-personal-website.html",
+		"/C/Users/bpnor/Documents/すみません.txt",
+		"/C/Users/bpnor/Documents/Japanese/JLPT N5 Excel.txt",
+		"/C/Users/bpnor/Documents/Japanese/JLPT N5 Excel.xlsx",
+		"/C/Users/bpnor/Downloads/All_in_One_Kanji_Deck_Heisigs_RTK_Order.apkg",
+		"/C/Users/bpnor/Documents/website/_projects/2018-12-03-reddit-bot-classifier.html",
+		"/C/Users/bpnor/Documents/website/.gitignore",
+		"/C/Users/bpnor/Documents/website/docs/CNAME",
+		"/C/Users/bpnor/Documents/website/_projects/2018-08-10-ecolab-data-importing-tool.html",
+		"/C/Users/bpnor/Documents/Japanese/Anki Deck",
+		"/C/Users/bpnor/Documents/website/404.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-11-9-thailand-2018.html",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab7/20591988_lab7.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/project3/main.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab8/lab8_skeleton.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/user_scraper.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/.gitignore",
+		"/C/Users/bpnor/Documents/COMP 4971C/classifier.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/practice.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/plot_ols.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/Reddit_Bot_Classifier.pdf",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab10/output.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab10/lab10_ans.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab10/lab10_skeleton.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab8/lab8/lab8_skeleton.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab8/lab8/output.txt",
+		"/C/Users/bpnor/Documents/p.py",
+		"/C/Users/bpnor/Documents/lanuch.sh",
+		"/C/Users/bpnor/Documents/COMP 4971C/visuals/Convention-Visualization.html",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab8/data_helper.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab7/data_helper.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/project2/20591988_project2.py",
+		"/C/Users/bpnor/Documents/COMP 4971C/nb_classifier.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab4/20591988_lab4.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab6/output_20591988.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/user_scraper.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/nb_classifier.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/main.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab6/lab6_skeleton.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab6/20591988.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/practice.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/project2/project2.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/.gitignore",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/classifier.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/user_scraper.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/classifier.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/spiders/reddit_spider.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/pipelines.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/classifier.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/settings.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/items.py",
+		"/C/Users/bpnor/Documents/Coding challenges/OurSky/answer2.md",
+		"/C/Users/bpnor/Documents/Coding challenges/OurSky/answer4.md",
+		"/C/Users/bpnor/Documents/Coding challenges/OurSky/answer3.py",
+		"/C/Users/bpnor/Documents/Coding challenges/OurSky/answer1.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/bot_accounts.txt",
+		"/C/Users/bpnor/Documents/website/_img/resume.pdf",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/bot_accounts.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab2/20591988_lab2_output.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab2/20591988_Lab2.py",
+		"/C/Users/bpnor/Documents/HDE/src/hello/mission3.py",
+		"/C/Users/bpnor/Documents/HDE/src/hello/hello.go",
+		"/C/Users/bpnor/Documents/HDE/src/hello/test.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/main.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/middlewares.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/reddit/spiders/__init__.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/quotes-r.html",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/reddit/quotes-1.html",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab4/lab4_skeleton.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab4/20591988_lab4_output.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/COMP 4971C/praw.ini",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab3/20591988_lab3_output.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab3/20591988_lab3.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab2_skeleton.py",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab1_text.txt",
+		"/C/Users/bpnor/Documents/School/Fall 2018/MATH 4824B/lab1_skeleton.py",
+		"/C/Users/bpnor/Documents/website/docs/travel/germany-austria-switzerland-2017/index.html",
+		"/C/Users/bpnor/Documents/website/js/progressive-image.js",
+		"/C/Users/bpnor/Documents/website/_travel/2017-01-01-hongkong-2017.html",
+		"/C/Users/bpnor/Documents/website/_scss/_layout.scss",
+		"/C/Users/bpnor/Documents/website/_scss/_boxes.scss",
+		"/C/Users/bpnor/Documents/website/_site/travel/philippines-2017/index.html",
+		"/C/Users/bpnor/Documents/website/_travel/2018-08-29-hongkong-2018.html",
+		"/C/Users/bpnor/Documents/website/_includes/resimg.html",
+		"/C/Users/bpnor/Documents/website/_includes/header.html",
+		"/C/Users/bpnor/Documents/website/_img/res/raw/travel/philippines/iloilo_boodle_fight_1.JPG"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
